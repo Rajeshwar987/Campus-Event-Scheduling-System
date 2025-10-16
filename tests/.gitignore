@@ -1,0 +1,34 @@
+*.pyc
+__pycache__/
+
+venv/
+.venv/
+
+.vscode/
+.idea/
+*.swp
+*~
+.#*
+
+.DS_Store
+Thumbs.db
+
+.env
+config.yaml # If it contains secrets
+*.log
+
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# VS Code and IDE specific files
+.vs/
+*.vsidx
+*.wsuo
+VSWorkspaceState.json
+DocumentLayout.backup.json
+
+# System files (if any)
+.DS_Store
+Thumbs.db
