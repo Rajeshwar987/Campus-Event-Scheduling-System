@@ -38,6 +38,11 @@ This repository contains a lightweight Python system for managing campus events,
   - Experimental results and visualizations in a Jupyter notebook  
 
 ---
+Complexity:
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 
 ## Project Structure
 
@@ -51,7 +56,7 @@ README.md explaining roles, setup, and results.
 ---
 
 ## TEAM CONTRIBUTIONS
--
+
  -Natarajan: part B, part D
  
  -Rajesh: Test suites, part D, Convert notebook to a project structure 
