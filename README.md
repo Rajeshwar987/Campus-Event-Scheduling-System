@@ -54,7 +54,7 @@ README.md explaining roles, setup, and results.
 -
  -Natarajan: part B, part D
  
- -Rajesh: testing suites, part D
+ -Rajesh: Test suites, part D, Convert notebook to a project structure 
  
  -Samawita: Part A linked list, part C conflict detection, part D
  
